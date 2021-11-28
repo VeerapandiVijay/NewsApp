@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsSample</string>
+
+    <!-- Content Description -->
+    <string name="news_image_desc">News Image</string>
+    <string name="news_image">news image</string>
+
+    <!-- Empty -->
+    <string name="no_news">No News</string>
+</resources>
